@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; 
 import { RiFacebookBoxLine } from "react-icons/ri";
 import { Link } from "react-router-dom";
 const Contact = () => {
@@ -6,7 +6,7 @@ const Contact = () => {
     <>
       <section id="contact">
         <h1>CONTACT Us</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error.</p>
+        <p>can you contact here</p>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi aliquid
           similique voluptas!
@@ -17,15 +17,15 @@ const Contact = () => {
               <h3>Let's connect</h3>
               <div>
                 <p>Phone</p>
-                <span>+001 1234 999</span>
+                <span>+91 9852347855</span>
               </div>
               <div>
                 <p>Email</p>
-                <span>zk@gmail.com</span>
+                <span>vm@gmail.com</span>
               </div>
               <div>
                 <p>Address</p>
-                <span>House No.123 Sector A-1</span>
+                <span>House No.123 Sector A-1 Mumbai</span>
               </div>
               <ul>
                 <Link to={"/facebook"} target="_blank">

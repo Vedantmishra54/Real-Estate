@@ -1,12 +1,12 @@
 import React from 'react'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import Home from './components/Home/Home';
-import AboutUs from "./Components/About/AboutUs"
-import Contact from './components/Contact/Contact';
-import Villas from './components/Villa/Villas';
-import SingleVilla from './components/Villa/SingleVilla';
-import Navbar from './components/Navbar/Navbar';
-import Footer from './components/Footer/Footer';
+import Home from './Components/Home/Home.jsx';
+import AboutUs from "./Components/About/AboutUs.jsx"
+import Contact from './components/Contact/Contact.jsx';
+import Villas from './components/Villa/Villas.jsx';
+import SingleVilla from './components/Villa/SingleVilla.jsx';
+import Navbar from './components/Navbar/Navbar.jsx';
+import Footer from './components/Footer/Footer.jsx';
 import './App.css'
 import TermsAndConditions from "./Components/TermsAndConditions/TermsAndCondition";
 
