@@ -5,7 +5,7 @@ const Regions = () => {
     <>
       <section id ='regions'>
         <h1>OUR REGIONS</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae nisi nesciunt, provident accusamus cumque commodi?</p>
+        <p>: Experience the ultimate beachfront living in our luxurious coastal villas. With stunning views of the sea, private beach access, and serene surroundings, these villas offer a perfect escape from the hustle and bustle of city life.</p>
         <div className='region_container'>
             <div className='card'>
                 <img src="/region1.jpg" alt="mountains" />

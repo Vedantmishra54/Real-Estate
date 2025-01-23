@@ -11,7 +11,7 @@ const TopVillas = () => {
     <div>
       <section id='topVillas'>
         <p>TOP PIC VILLAS</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit..</p>
+        <p>Explore the finest selection of villas, each designed to offer a unique blend of luxury, comfort, and elegance. Discover your dream villa from our curated collection:</p>
         <div className='villasContainer'>
         {
 

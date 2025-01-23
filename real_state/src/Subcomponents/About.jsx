@@ -7,10 +7,10 @@ const About = () => {
         <div className='first_container'>
             <div className='content'>
                 <h1>ABOUT US</h1>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda velit amet natus!</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio eum possimus excepturi corporis, quod placeat porro quisquam, qui optio quibusdam enim deserunt voluptatem doloribus velit?</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, exercitationem vero accusamus impedit iste deserunt?</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit animi eveniet minus maxime unde reprehenderit illum commodi expedita soluta harum!</p>
+                <p>Discover the epitome of luxury living in our exquisite villas, meticulously designed to offer unparalleled comfort and elegance. Nestled in serene locations, our villas provide a perfect blend of modern amenities and natural beauty, ensuring a tranquil and sophisticated lifestyle.</p>
+                <p>Enjoy beautifully landscaped gardens, private swimming pools, and outdoor entertainment areas perfect for hosting gatherings or enjoying quiet moments of relaxation.</p>
+                <p>Our villas are strategically located in the most sought-after neighborhoods, offering convenient access to essential amenities such as schools, hospitals, shopping centers, and recreational facilities. Whether you desire a peaceful retreat or a vibrant community, we have the perfect villa for you.</p>
+                
             </div>
                 <button>We strive to offer you best possible hones to stay!</button>
 

@@ -60,8 +60,7 @@ const TermsAndConditions = () => {
             <ol>
               <li>
                 The content on the Website, including but not limited to text,
-                graphics, logos, images, and software, is the property of [Your
-                Company] and is protected by copyright, trademark, and other
+                graphics, logos, images, and software, is the property of  and is protected by copyright, trademark, and other
                 intellectual property laws.
               </li>
               <li>
