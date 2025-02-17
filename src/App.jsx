@@ -1,0 +1,33 @@
+import React from 'react'
+import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import Home from './Components/Home/Home.jsx';
+import AboutUs from "./Components/About/AboutUs.jsx"
+import Contact from './components/Contact/Contact.jsx';
+import Villas from './components/Villa/Villas.jsx';
+import SingleVilla from './components/Villa/SingleVilla.jsx';
+import Navbar from './components/Navbar/Navbar.jsx';
+import Footer from './components/Footer/Footer.jsx';
+import './App.css'
+import TermsAndConditions from "./Components/TermsAndConditions/TermsAndCondition";
+
+
+const App = () => {
+  return (
+    <>
+      <Router>
+        <Navbar/>
+        <Routes>
+          <Route path='/' element={<Home/>}/>
+          <Route path='/aboutus' element={<AboutUs/>}/>
+          <Route path='/contact' element={<Contact/>}/>
+          <Route path='/termsandconditions' element={<TermsAndConditions/>}/>
+          <Route path='/villas' element={<Villas/>}/>
+          <Route path='/villa/:id' element={<SingleVilla/>}/>
+        </Routes>
+        <Footer/>
+      </Router>
+    </>
+  )
+}
+
+export default App
